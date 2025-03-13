@@ -43,7 +43,7 @@ Leading development across various open-source initiatives including:
 
 ## GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imacatpro&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats-neon-ten-75.vercel.app/api?username=imacatpro&show_icons=true&theme=default)
 
 ## Contact Information
 
