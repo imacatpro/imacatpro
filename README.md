@@ -5,7 +5,7 @@
 
 ## About Me
 
-Founder & CEO of **ZenturoGroup** a technology conglomerate overseeing 13 corporations and maintaining over 100 open-source projects. Focused on developing advanced AI systems, cloud infrastructure, and enterprise technology solutions.
+Founder & CEO of **ZenturoGroup** a technology conglomerate overseeing 6 corporations and maintaining over 10 open-source projects. Focused on developing advanced AI systems, cloud infrastructure, and enterprise technology solutions.
 
 ## Professional Focus
 
